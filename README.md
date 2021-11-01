@@ -4,4 +4,4 @@ Welcome to the website for my twine game, created for the course IASC - 1P04 at 
 
 ## Playtest
 
-Playtest my game [here]().
+Playtest my game [here](prototype/Game Prototype_ LOCKED IN, By_ Aidan Winegarden_2021_10_31.html).
