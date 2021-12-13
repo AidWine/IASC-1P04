@@ -5,7 +5,7 @@ LOCKED IN is a escape room interactive thriller. Try and escape the house, and m
 
 ## Play now
 
-Play LOCKED IN [here](https://aidwine.github.io/IASC-1P04/final_build/Game Final_ LOCKED IN, By_ Aidan Winegarden).
+Play LOCKED IN [here](https://aidwine.github.io/IASC-1P04/final_build/Game%20Final_%20LOCKED%20IN,%20By_%20Aidan%20Winegarden.html).
 
 Welcome to the website for my twine game, created for the course IASC - 1P04 at Brock Univeristy.
 
